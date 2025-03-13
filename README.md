@@ -24,6 +24,18 @@ Spring Boot와 JPA, Cloud를 활용하여 **실제 유저가 사용하는 앱을
 
 ---
 
+## 📂 Project Repositories
+🔹 [**치매 노인을 위한 기억 회상 보이스봇, ATTI**](https://github.com/H0ngJu/atti)  
+&nbsp;&nbsp;&nbsp;&nbsp; → **Flutter & Firebase 기반** 음성 인식 챗봇. Google Solution Challenge TOP3 수상작.
+
+🔹 [**실시간 채팅 앱**](https://github.com/jeon-jueun/chatting_project)
+&nbsp;&nbsp;&nbsp;&nbsp; → **Node.js 기반** 실시간 채팅 기능 구현.
+
+🔹 [**문해력 테스트**](https://github.com/qkrtnwjd4212/Seapower_test)  
+&nbsp;&nbsp;&nbsp;&nbsp; → **React.js 기반** 온라인 바다에 대한 이해력 측정 웹 서비스.
+
+---
+
 ## 🛠 Tech Stack
 ### ✅ Strong
 _(Coming Soon...)_
